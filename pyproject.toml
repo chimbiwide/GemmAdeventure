@@ -1,0 +1,8 @@
+[GemmAdventure]
+name = "GemmAdventure"
+version = "0.1.0"
+description = "A AI generated dungeon crawler using our custom trained Gemma3NPC-it model"
+requires-python = ">=3.12"
+dependencies = [
+    "lmstudio>=1.5.0",
+]
